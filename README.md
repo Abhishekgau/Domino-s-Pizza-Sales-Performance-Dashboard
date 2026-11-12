@@ -1,3 +1,4 @@
+
 # 🍕 Domino's Pizza Sales Performance Dashboard
 
 An end-to-end data analysis project showcasing sales performance metrics, key performance indicators (KPIs), and actionable business insights for Domino's Pizza. This repository contains the raw data, SQL database setup, analytical scripts, an interactive Excel dashboard, a project documentation report, and visual previews.
@@ -5,7 +6,7 @@ An end-to-end data analysis project showcasing sales performance metrics, key pe
 ---
 
 ## 📊 Dashboard Preview
-<img width="1920" height="1080" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/a13f453e-0d17-46b6-a4d7-ccc0f1266cbe" />
+<img width="1722" height="767" alt="Screenshot 2026-11-12 210121" src="https://github.com/user-attachments/assets/d741b36c-a8db-4889-8233-2a997247b9de" />
 
 
 ---
