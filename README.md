@@ -5,7 +5,8 @@ An end-to-end data analysis project showcasing sales performance metrics, key pe
 ---
 
 ## 📊 Dashboard Preview
-![Domino's Pizza Sales Performance Dashboard](Screenshot%20(121).jpg)
+<img width="1920" height="1080" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/a13f453e-0d17-46b6-a4d7-ccc0f1266cbe" />
+
 
 ---
 
@@ -32,4 +33,4 @@ An end-to-end data analysis project showcasing sales performance metrics, key pe
 ## 🛠️ Tools & Technologies Used
 * **Microsoft Excel:** Pivot Tables, Pivot Charts, Data Cleaning, Dashboard Design
 * **SQL (MySQL):** Database management, data querying, and aggregation
-* **Microsoft Word:** Project reporting and documentation<img width="1920" height="1080" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/a13f453e-0d17-46b6-a4d7-ccc0f1266cbe" />
+* **Microsoft Word:** Project reporting and documentation
